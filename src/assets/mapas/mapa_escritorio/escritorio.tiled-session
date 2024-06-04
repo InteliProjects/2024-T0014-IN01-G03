@@ -1,0 +1,122 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/castelo/mapa castelo..tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Todos os Ficheiros (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 4
+        },
+        "#escritorio base(ground)": {
+            "scaleInDock": 1
+        },
+        "#mapaEscritórioFinal": {
+            "scaleInDock": 0.75
+        },
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/castelo/mapa castelo..tmx": {
+            "scale": 1.2341517857142856,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.2633387592694,
+                "y": 208.64532465183578
+            }
+        },
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/castelo/mapa castelo..tmx#grass": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/castelo/mapa castelo..tmx#objetos": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/castelo/mapa castelo..tmx#water": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/escritorio/mapaEscritórioFinal.tmx": {
+            "expandedObjectLayers": [
+                5
+            ],
+            "scale": 1.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 232.66666666666666,
+                "y": 94.33333333333331
+            }
+        },
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/escritorio/mapaEscritórioFinal.tmx#cena_escritorio": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/escritorio/mapaEscritórioFinal.tmx#corredor": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/escritorio/mapaEscritórioFinal.tmx#corredor_Meta": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/escritorio/mapaEscritórioFinal.tmx#escritorio base(ground)": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/escritorio/mapaEscritórioFinal.tmx#office_design_final": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/mapa_castelo_corredor/castelo_corredor.tmx": {
+            "scale": 1.2341517857142856,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.2633387592694,
+                "y": 208.64532465183578
+            }
+        },
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/mapa_castelo_corredor/castelo_corredor.tmx#mapa_final_castelo": {
+            "scaleInDock": 1
+        },
+        "escritorio.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 8,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 345.5,
+                "y": 128.1875
+            }
+        },
+        "escritorio.tmx#escritorio base(ground)": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 11
+        },
+        "escritorio.tmx#mapaEscritórioFinal": {
+            "scaleInDock": 2,
+            "scaleInEditor": 3
+        }
+    },
+    "last.exportedFilePath": "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/mapa_escritorio",
+    "last.imagePath": "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/mapa_escritorio",
+    "map.height": 26,
+    "map.lastUsedExportFilter": "Ficheiros de mapa JSON (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 8,
+    "map.tileWidth": 8,
+    "map.width": 60,
+    "openFiles": [
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/escritorio/mapaEscritórioFinal.tmx",
+        "escritorio.tmx",
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/mapa_castelo_corredor/castelo_corredor.tmx",
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/castelo/mapa castelo..tmx"
+    ],
+    "project": "escritorio.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/escritorio/mapaEscritórioFinal.tmx",
+        "escritorio.tmx",
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/mapa_castelo_corredor/castelo_corredor.tmx",
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/castelo/mapa castelo..tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 8,
+        "width": 8
+    }
+}

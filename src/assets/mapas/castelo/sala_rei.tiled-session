@@ -1,0 +1,60 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/mapa2/map2.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/mapa2/map2.tmx": {
+            "scale": 0.8099121093749999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 512.4012781093628,
+                "y": 400.6607584252728
+            }
+        },
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/mapa2/map2.tmx#assets": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/mapa_castelo_corredor/castelo_corredor.tmx": {
+            "scale": 1.2341517857142856,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 335.8582022065474,
+                "y": 208.64532465183578
+            }
+        },
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/mapa_castelo_corredor/castelo_corredor.tmx#mapa_final_castelo": {
+            "scaleInDock": 1
+        },
+        "sala_rei.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 479.99999999999994,
+                "y": 351.33333333333337
+            }
+        },
+        "sala_rei.tmx#salarei": {
+            "scaleInDock": 0.33
+        }
+    },
+    "last.exportedFilePath": "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/castelo",
+    "last.imagePath": "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/castelo",
+    "map.lastUsedExportFilter": "Ficheiros de mapa JSON (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "sala_rei.tmx",
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/mapa_castelo_corredor/castelo_corredor.tmx",
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/mapa2/map2.tmx"
+    ],
+    "project": "sala_rei.tiled-project",
+    "recentFiles": [
+        "sala_rei.tmx",
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/mapa_castelo_corredor/castelo_corredor.tmx",
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/mapa2/map2.tmx"
+    ],
+    "tileset.embedInMap": true
+}

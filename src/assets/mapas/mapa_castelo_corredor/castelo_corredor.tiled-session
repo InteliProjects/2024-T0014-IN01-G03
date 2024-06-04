@@ -1,0 +1,35 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "castelo_corredor.tmx": {
+            "scale": 1.2341517857142856,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.2633387592694,
+                "y": 208.64532465183578
+            }
+        },
+        "castelo_corredor.tmx#mapa_final_castelo": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/mapa_castelo_corredor",
+    "last.imagePath": "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/mapa_castelo_corredor",
+    "map.height": 13,
+    "map.lastUsedExportFilter": "Ficheiros de mapa JSON (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.width": 21,
+    "openFiles": [
+    ],
+    "project": "castelo_corredor.tiled-project",
+    "recentFiles": [
+        "castelo_corredor.tmx"
+    ],
+    "tileset.embedInMap": true
+}

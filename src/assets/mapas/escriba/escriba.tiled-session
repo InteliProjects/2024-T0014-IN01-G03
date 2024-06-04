@@ -1,0 +1,163 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/castelo/sala_rei.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 480.66666666666663,
+                "y": 367.33333333333337
+            }
+        },
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/castelo/sala_rei.tmx#salarei": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/exterior/exterior.tmx": {
+            "scale": 1.1743055555555555,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 432.1703134240094,
+                "y": 240.56771141336486
+            }
+        },
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/exterior/exterior.tmx#exteriorcastelo": {
+            "scaleInDock": 0.33
+        },
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/floresta/cena_floresta.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1003,
+                "y": 415
+            }
+        },
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/floresta/cena_floresta.tmx#grass": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/floresta/cena_floresta.tmx#ground": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/floresta/cena_floresta.tmx#objects": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/floresta/cena_floresta.tmx#objetos": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/floresta/cena_floresta.tmx#samplemap": {
+            "scaleInDock": 0.75
+        },
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/floresta/cena_floresta.tmx#water": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/mapa_castelo_corredor/castelo_corredor.tmx": {
+            "scale": 1.5098214285714284,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 335.47013601419286,
+                "y": 208.30277942046132
+            }
+        },
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/mapa_castelo_corredor/castelo_corredor.tmx#mapa_final_castelo": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/mapa_escritorio/escritorio.tmx": {
+            "scale": 8,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 383.4375,
+                "y": 81.4375
+            }
+        },
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/mapa_escritorio/escritorio.tmx#escritorio base(ground)": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/mapa_escritorio/escritorio.tmx#mapaEscritórioFinal": {
+            "scaleInDock": 4,
+            "scaleInEditor": 4
+        },
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/nova_floresta/floresta.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 0.9594999999999999,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 507.0349140177176,
+                "y": 272.53778009379886
+            }
+        },
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/nova_floresta/floresta.tmx#cena_floresta": {
+            "scaleInDock": 1.5
+        },
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/predio/map_meta.tmx": {
+            "scale": 0.9908203124999999,
+            "selectedLayer": 10,
+            "viewCenter": {
+                "x": 511.1925882121033,
+                "y": 415.3124383993692
+            }
+        },
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/predio/map_meta.tmx#arvores": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/predio/map_meta.tmx#calçada": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/predio/map_meta.tmx#carros": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/predio/map_meta.tmx#decoracao": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/predio/map_meta.tmx#estrada": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/predio/map_meta.tmx#plantas": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/predio/map_meta.tmx#predio": {
+            "scaleInDock": 1
+        },
+        "escriba.tmx": {
+            "scale": 2,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 319.25,
+                "y": 287.25
+            }
+        },
+        "escriba.tmx#cena_escriba": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        }
+    },
+    "last.exportedFilePath": "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/mapa_escritorio",
+    "last.imagePath": "C:/Users/Inteli/Documents/Prototipos/prototipo_2/prot2/assets/mapas/mapa2",
+    "map.lastUsedExportFilter": "Ficheiros de mapa JSON (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+    ],
+    "project": "escriba.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/floresta/cena_floresta.tmx",
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/exterior/exterior.tmx",
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/castelo/sala_rei.tmx",
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/nova_floresta/floresta.tmx",
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/mapa_castelo_corredor/castelo_corredor.tmx",
+        "escriba.tmx",
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/predio/map_meta.tmx",
+        "C:/Users/Inteli/Documents/GitHub/2024-T0014-IN01-G03/src/assets/mapas/mapa_escritorio/escritorio.tmx"
+    ],
+    "tileset.embedInMap": true
+}

@@ -1,0 +1,51 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
+        },
+        "#arvores": {
+            "scaleInEditor": 1
+        },
+        "#estrada": {
+            "scaleInDock": 0.33
+        },
+        "C:/Users/Inteli/Downloads/Mapa 1_2_3/Mapa 1_2_3/castelo/mapa castelo..tmx": {
+            "scale": 0.73662109375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 512.4751425162403,
+                "y": 240.96513323611305
+            }
+        },
+        "C:/Users/Inteli/Downloads/Mapa 1_2_3/Mapa 1_2_3/castelo/mapa castelo..tmx#grass": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/Downloads/Mapa 1_2_3/Mapa 1_2_3/castelo/mapa castelo..tmx#objetos": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/Downloads/Mapa 1_2_3/Mapa 1_2_3/castelo/mapa castelo..tmx#water": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/Inteli/Documents/predio",
+    "last.imagePath": "C:/Users/Inteli/Downloads",
+    "map.lastUsedExportFilter": "Ficheiros de mapa JSON (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.width": 32,
+    "openFiles": [
+    ],
+    "project": "mapa_predio.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "C:/Users/Inteli/Downloads/Mapa 1_2_3/Mapa 1_2_3/castelo/mapa castelo..tmx"
+    ],
+    "tileset.embedInMap": true
+}

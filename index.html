@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Definição do conjunto de caracteres -->
+    <meta charset="UTF-8">
+
+    <!-- Configuração da viewport para dispositivos móveis -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Título da página -->
+    <title>Tyler's Supplier Journey</title>
+
+    <!-- Inclusão da biblioteca Phaser -->
+    <script src="https://cdn.jsdelivr.net/npm/phaser@3.55.2/dist/phaser.min.js"></script>
+
+    <!-- Estilos CSS para o corpo da página -->
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background: #000000;
+            /* Fundo preto */
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Script principal em módulo -->
+    <script type="module">
+        // Importação das cenas do jogo
+        import Tela from './src/cenas/menu/tela.js';
+        import ScenePredio from './src/cenas/cena1_predio/cena_predio.js';
+        import SceneOffice from './src/cenas/cena2_escritorio/cena_escritorio.js';
+        import SceneCorredor from './src/cenas/cena6_corredor_castelo/cena_corredor.js';
+        import SceneCastle from './src/cenas/cena5_castelo/cena_castelo.js';
+        import SceneEscriba from './src/cenas/cena7_escriba/cena_escriba.js';
+        import SceneFesta from './src/cenas/cena8_festa/cena_metaConnect.js';
+        import SceneExterior from './src/cenas/cena3_exterior/cena_exterior.js';
+
+        //Minigames
+        import minigame1 from './src/cenas/minigames/minigame1/minigame1.js'
+        import minigame2 from './src/cenas/minigames/minigame2/minigame2.js'
+        import minigame3 from './src/cenas/minigames/minigame3/minigame3.js'
+
+        //Resumos
+        import Resumo1 from './src/cenas/resumos/resumo_etapa1.js'
+        import Resumo2 from './src/cenas/resumos/resumo_etapa2.js'
+        import Resumo3 from './src/cenas/resumos/resumo_etapa3.js'
+        import Resumo4 from './src/cenas/resumos/resumo_etapa4.js'  
+        import Resumo5 from './src/cenas/resumos/resumo_etapa5.js'  
+
+        //Video
+        import Creditos from './src/cenas/cena9_creditos/cena_creditos.js'
+
+        // Configuração do jogo com Phaser
+        const config = {
+            pixelArt: true, // Habilita o modo de pixel art
+            type: Phaser.AUTO, // Tipo de renderização automática
+            width: 1280, // Largura da tela do jogo
+            height: 720, // Altura da tela do jogo
+            scale: {
+                mode: Phaser.Scale.FIT, // Modo de escala FIT para dimensionamento automático
+            },
+            physics: {
+                default: 'arcade',
+                arcade: {
+                    gravity: { y: 0 }, // Define a gravidade no eixo y como 0
+                    debug: false
+                }
+            },
+
+            // Lista de cenas do jogo
+            scene: [Tela, ScenePredio, SceneOffice, SceneExterior, SceneCorredor, SceneCastle, SceneEscriba, SceneFesta, minigame1, minigame2, minigame3, Resumo1, Resumo2, Resumo3, Resumo4, Resumo5, Creditos]
+        };
+
+        // Criação da instância do jogo
+        const game = new Phaser.Game(config);
+    </script>
+</body>
+
+</html>

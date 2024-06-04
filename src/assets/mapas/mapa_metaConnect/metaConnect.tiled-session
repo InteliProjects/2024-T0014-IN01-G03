@@ -1,0 +1,31 @@
+{
+    "activeFile": "mapa_metaConnect/metaConnect.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "mapa_metaConnect/metaConnect.tmx": {
+            "scale": 1,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 481.5,
+                "y": 341.5
+            }
+        },
+        "mapa_metaConnect/metaConnect.tmx#objetos": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "mapa_metaConnect/metaConnect.tmx#samplemap": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        }
+    },
+    "openFiles": [
+        "mapa_metaConnect/metaConnect.tmx"
+    ],
+    "project": "metaConnect.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "mapa_metaConnect/metaConnect.tmx"
+    ]
+}
